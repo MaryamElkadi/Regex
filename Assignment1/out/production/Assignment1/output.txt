@@ -1,0 +1,70 @@
+1
+valid email
+invalid email
+invalid email
+x
+2
+valid phone number
+valid phone number
+valid phone number
+invalid phone number
+invalid phone number
+x
+3
+valid date
+invalid date
+invalid date
+x
+Invalid input: 192.168.1.1
+Invalid input: 192.168.1.256
+Invalid input: x
+Invalid input: x1y2
+Invalid input: _hello
+Invalid input: 1x
+Invalid input: bad name
+Invalid input: !name
+Invalid input: bbb
+Invalid input: bBb
+Invalid input: aabbvs10nkn0b
+7
+Number of Match words: 1
+Matched Substring: 
+Start position: 1
+End position: 1
+Number of Match words: 1
+Matched Substring: 
+Start position: 1
+End position: 1
+Number of Match words: 2
+Matched Substring: 
+Start position: 3
+End position: 3
+Number of Match words: 3
+Matched Substring: 
+Start position: 4
+End position: 4
+Number of Match words: 4
+Matched Substring: 
+Start position: 5
+End position: 5
+Number of Match words: 5
+Matched Substring: 
+Start position: 7
+End position: 7
+x
+8
+number of matched words: 1
+matched word: The
+start index: 0, end index: 3
+number of matched words: 2
+matched word: cat
+start index: 4, end index: 7
+No Words Matches 
+x
+9
+x
+10
+valid mathematical expression
+valid mathematical expression
+invalid mathematical expression
+x
